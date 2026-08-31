@@ -35,15 +35,18 @@
 
 ---
 
-<div align="center">
-
-### `03` — GITHUB STATS
 
 <br>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mouraleticia49&show_icons=true&hide_border=true&bg_color=00000000&title_color=D8CBBE&icon_color=8F6F5A&text_color=B8AEA5&ring_color=8F6F5A&include_all_commits=true" />
+---
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouraleticia49&layout=compact&hide_border=true&bg_color=00000000&title_color=D8CBBE&text_color=B8AEA5" />
+<div align="center">
+
+### `03` — CONTRIBUTIONS
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mouraleticia49&hide_border=true&background=00000000&ring=8F6F5A&fire=8F6F5A&currStreakLabel=D8CBBE&sideLabels=D8CBBE&dates=B8AEA5&currStreakNum=F2EEE9&sideNums=F2EEE9" />
 
 </div>
 
@@ -53,25 +56,11 @@
 
 <div align="center">
 
-### `04` — CONTRIBUTIONS
+### `04` — CURRENTLY LEARNING
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mouraleticia49&bg_color=00000000&color=D8CBBE&line=8F6F5A&point=F2EEE9&area=true&hide_border=true&custom_title=My%20contributions" width="92%"/>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-### `05` — CURRENTLY LEARNING
-
-<br>
-
-`HTML`   `CSS`   
+`HTML`   `CSS`  'python'
 
 <br><br>
 
