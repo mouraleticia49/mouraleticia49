@@ -60,7 +60,7 @@
 
 <br>
 
-`HTML`   `CSS`  'python'
+`HTML`   `CSS`  `python`
 
 <br><br>
 
