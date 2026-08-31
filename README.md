@@ -3,9 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:171514,50:2B2420,100:8F6F5A&height=220&section=header&text=LETÍCIA%20MOURA&fontSize=48&fontColor=F2EEE9&fontAlignY=38&animation=fadeIn&desc=informática%20·%20IFPI&descAlignY=60&descSize=18&descColor=D8CBBE"/>
 
 </div>
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171514,50:2B2420,100:8F6F5A&height=220&section=header&text=LETÍCIA&fontSize=55&fontColor=F2EEE9&fontAlignY=38&animation=fadeIn&desc=informática%20·%20IFPI&descAlignY=60&descSize=18&descColor=D8CBBE"/>
 
 <br>
 
